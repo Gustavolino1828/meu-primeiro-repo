@@ -1,2 +1,2 @@
-const anoNascimento = 1993
-console.log 
+console.log ("ola mundo")
+console.log("teste 1,1,1")
